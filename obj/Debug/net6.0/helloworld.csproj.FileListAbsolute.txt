@@ -1,0 +1,15 @@
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\bin\Debug\net6.0\helloworld.exe
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\bin\Debug\net6.0\helloworld.deps.json
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\bin\Debug\net6.0\helloworld.runtimeconfig.json
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\bin\Debug\net6.0\helloworld.dll
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\bin\Debug\net6.0\helloworld.pdb
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.csproj.AssemblyReference.cache
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfoInputs.cache
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.AssemblyInfo.cs
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.csproj.CoreCompileInputs.cache
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.dll
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\refint\helloworld.dll
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.pdb
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\helloworld.genruntimeconfig.cache
+E:\Learnning\Năm 4 kì 1\Chuyên đề CN\vdGIt\helloworld\obj\Debug\net6.0\ref\helloworld.dll
